@@ -1,7 +1,7 @@
 <!-- Profile README for shoshaUg -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=16C60C&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Homeda_Pa!;+Designer+%7C+Frontend+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=16C60C&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Homeda_Pa!;IT+%7C+Designer+%7C+Frontend+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 👋 About Me
 
 - 🎓 IT Student @ University of Ghana, Legon
-- 💻 Frontend skills: **HTML** & **CSS** (with a touch of JavaScript & Python)
+- 💻 Frontend skills: **HTML** & **CSS** (with a touch of JavaScript)
 - 🎨 Passionate about graphic design in my free time
 - 🌱 Currently exploring more about web technologies and creative design
 
