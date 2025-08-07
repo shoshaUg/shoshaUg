@@ -9,7 +9,7 @@
 ### 👋 About Me
 
 - 🎓 IT Student @ University of Ghana, Legon
-- 💻 Frontend skills: **HTML** & **CSS** (with a touch of JavaScript)
+- 💻 Frontend skills: **HTML** & **CSS** (with a touch of JavaScript & Python)
 - 🎨 Passionate about graphic design in my free time
 - 🌱 Currently exploring more about web technologies and creative design
 
