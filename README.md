@@ -1,7 +1,7 @@
 <!-- Profile README for shoshaUg -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=16C60C&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Homeda_Pa!; +Designer+%7C+Frontend+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=16C60C&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Homeda_Pa!;+Designer+%7C+Frontend+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
