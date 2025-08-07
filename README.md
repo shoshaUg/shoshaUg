@@ -18,19 +18,19 @@
 ### 🚀 Skills & Tools
 
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Graphic%20Design-8A2BE2?logo=adobephotoshop&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" /> <br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" /> <br>
+  <img src="https://img.shields.io/badge/Graphic%20Design-8A2BE2?logo=adobephotoshop&logoColor=white&style=for-the-badge" /> 
 </div>
 
 ---
 
 ### 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-homedapa.043-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/homedapa.043)
-[![Snapchat](https://img.shields.io/badge/Snapchat-homedapa-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge)](https://www.snapchat.com/add/homedapa)
-[![TikTok](https://img.shields.io/badge/TikTok-homedapa-000000?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@homedapa)
+[![Instagram](https://img.shields.io/badge/Instagram-homedapa.043-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/homedapa.043) <br>
+[![Snapchat](https://img.shields.io/badge/Snapchat-homedapa-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge)](https://www.snapchat.com/add/homedapa) <br>
+[![TikTok](https://img.shields.io/badge/TikTok-homedapa-000000?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@homedapa) 
 
 ---
 
